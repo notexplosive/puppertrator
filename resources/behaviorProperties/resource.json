@@ -1,0 +1,323 @@
+{
+  "behaviors": {
+    "ClickableRegionBehavior": {
+      "scriptId": "4",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "clickable",
+          "type": "boolean"
+        },
+        {
+          "name": "disabledUntil",
+          "type": "string"
+        }
+      ]
+    },
+    "GameBehavior": {
+      "scriptId": "5",
+      "line": 45,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "LogoAnimBehavior": {
+      "scriptId": "9",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "tick",
+          "type": "number"
+        },
+        {
+          "name": "delay",
+          "type": "number"
+        },
+        {
+          "name": "tscale",
+          "type": "number"
+        },
+        {
+          "name": "correct",
+          "type": "number"
+        }
+      ]
+    },
+    "CursorBehavior": {
+      "scriptId": "12",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "RoomObjectBehavior": {
+      "scriptId": "14",
+      "line": 0,
+      "parentBehavior": "ClickableRegionBehavior",
+      "properties": [
+        {
+          "name": "disabledUntil",
+          "type": "string"
+        }
+      ]
+    },
+    "TextHandlerBehavior": {
+      "scriptId": "16",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "index",
+          "type": "number"
+        },
+        {
+          "name": "timer",
+          "type": "number"
+        },
+        {
+          "name": "flag",
+          "type": "string"
+        },
+        {
+          "name": "mostRecentKey",
+          "type": "string"
+        }
+      ]
+    },
+    "DialogueObjectBehavior": {
+      "scriptId": "15",
+      "line": 0,
+      "parentBehavior": "ClickableRegionBehavior",
+      "properties": [
+        {
+          "name": "key",
+          "type": "string"
+        }
+      ]
+    },
+    "TextShadowBehavior": {
+      "scriptId": "18",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "AnswerBehavior": {
+      "scriptId": "19",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "timer",
+          "type": "number"
+        },
+        {
+          "name": "startkey",
+          "type": "string"
+        }
+      ]
+    },
+    "NameDogBehavior": {
+      "scriptId": "42",
+      "line": 2,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "FadeInBehavior": {
+      "scriptId": "44",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "delay",
+          "type": "number"
+        },
+        {
+          "name": "playedSound",
+          "type": "boolean"
+        }
+      ]
+    },
+    "LayerWithCursorBehavior": {
+      "scriptId": "45",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "offsetY",
+          "type": "number"
+        }
+      ]
+    },
+    "LoadCinematicBehavior": {
+      "scriptId": "48",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "delay",
+          "type": "number"
+        },
+        {
+          "name": "timer",
+          "type": "number"
+        }
+      ]
+    },
+    "FadeOutBehavior": {
+      "scriptId": "51",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "delay",
+          "type": "number"
+        }
+      ]
+    },
+    "TimedFlagBehavior": {
+      "scriptId": "52",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "timer",
+          "type": "number"
+        },
+        {
+          "name": "key",
+          "type": "string"
+        }
+      ]
+    },
+    "PlayerHeadBehavior": {
+      "scriptId": "61",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "CreateFadeInBehavior": {
+      "scriptId": "62",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "FluffyBehavior": {
+      "scriptId": "67",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "PortraitBehavior": {
+      "scriptId": "71",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "ExpandParticleBehavior": {
+      "scriptId": "72",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "CameraBehavior": {
+      "scriptId": "73",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "shaketick",
+          "type": "number"
+        }
+      ]
+    },
+    "ButtonBehavior": {
+      "scriptId": "75",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "pressed",
+          "type": "boolean"
+        }
+      ]
+    },
+    "JukeboxBehavior": {
+      "scriptId": "78",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "startSong",
+          "type": "string"
+        },
+        {
+          "name": "loop",
+          "type": "boolean"
+        }
+      ]
+    },
+    "TitleScreenBehavior": {
+      "scriptId": "86",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "tick",
+          "type": "number"
+        },
+        {
+          "name": "mostrecent",
+          "type": "string"
+        },
+        {
+          "name": "negative",
+          "type": "boolean"
+        }
+      ]
+    },
+    "PortraitFlyByBehavior": {
+      "scriptId": "87",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "speed",
+          "type": "number"
+        }
+      ]
+    },
+    "TickToSceneBehavior": {
+      "scriptId": "94",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "delay",
+          "type": "number"
+        },
+        {
+          "name": "scene",
+          "type": "string"
+        }
+      ]
+    },
+    "FreeMouseBehavior": {
+      "scriptId": "95",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "CursorShadowBehavior": {
+      "scriptId": "98",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "ClearEverythingBehavior": {
+      "scriptId": "99",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    }
+  }
+}

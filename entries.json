@@ -1,0 +1,504 @@
+{
+  "nextEntryId": 104,
+  "nodes": [
+    {
+      "id": "26",
+      "name": "UI",
+      "type": null,
+      "children": [
+        {
+          "id": "20",
+          "name": "Back",
+          "type": "sprite"
+        },
+        {
+          "id": "11",
+          "name": "CursorSprite",
+          "type": "sprite"
+        },
+        {
+          "id": "21",
+          "name": "Gray",
+          "type": "sprite"
+        },
+        {
+          "id": "10",
+          "name": "White",
+          "type": "sprite"
+        },
+        {
+          "id": "8",
+          "name": "LogoSprite",
+          "type": "sprite"
+        },
+        {
+          "id": "0",
+          "name": "Bubble",
+          "type": "sprite"
+        },
+        {
+          "id": "43",
+          "name": "Cadillac",
+          "type": "sprite"
+        },
+        {
+          "id": "74",
+          "name": "Button",
+          "type": "sprite"
+        },
+        {
+          "id": "82",
+          "name": "Check",
+          "type": "sprite"
+        },
+        {
+          "id": "83",
+          "name": "NewClue",
+          "type": "sprite"
+        },
+        {
+          "id": "96",
+          "name": "Border",
+          "type": "sprite"
+        },
+        {
+          "id": "101",
+          "name": "Title",
+          "type": "sprite"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Rooms",
+      "type": null,
+      "children": [
+        {
+          "id": "3",
+          "name": "Main",
+          "type": "sprite"
+        },
+        {
+          "id": "23",
+          "name": "Desk",
+          "type": "sprite"
+        },
+        {
+          "id": "24",
+          "name": "Boxes",
+          "type": "sprite"
+        },
+        {
+          "id": "22",
+          "name": "Bulletin",
+          "type": "sprite"
+        },
+        {
+          "id": "36",
+          "name": "PC",
+          "type": "sprite"
+        },
+        {
+          "id": "37",
+          "name": "Newspaper",
+          "type": "sprite"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "MainRoomLayers",
+      "type": null,
+      "children": [
+        {
+          "id": "29",
+          "name": "Desk",
+          "type": "sprite"
+        },
+        {
+          "id": "30",
+          "name": "Boxes",
+          "type": "sprite"
+        },
+        {
+          "id": "31",
+          "name": "Bulletin",
+          "type": "sprite"
+        },
+        {
+          "id": "32",
+          "name": "PC",
+          "type": "sprite"
+        },
+        {
+          "id": "33",
+          "name": "Light",
+          "type": "sprite"
+        },
+        {
+          "id": "34",
+          "name": "Newspaper",
+          "type": "sprite"
+        },
+        {
+          "id": "38",
+          "name": "Player",
+          "type": "sprite"
+        },
+        {
+          "id": "97",
+          "name": "Paper",
+          "type": "sprite"
+        },
+        {
+          "id": "59",
+          "name": "Head",
+          "type": "sprite"
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "name": "Portraits",
+      "type": null,
+      "children": [
+        {
+          "id": "50",
+          "name": "Player",
+          "type": "sprite"
+        },
+        {
+          "id": "55",
+          "name": "Holly",
+          "type": "sprite"
+        },
+        {
+          "id": "56",
+          "name": "Bill",
+          "type": "sprite"
+        },
+        {
+          "id": "57",
+          "name": "Scraggly",
+          "type": "sprite"
+        },
+        {
+          "id": "58",
+          "name": "Amelia",
+          "type": "sprite"
+        },
+        {
+          "id": "63",
+          "name": "Fluffy",
+          "type": "sprite"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Text",
+      "type": "font"
+    },
+    {
+      "id": "102",
+      "name": "BoldText",
+      "type": "font"
+    },
+    {
+      "id": "46",
+      "name": "MainTheme",
+      "type": "sound"
+    },
+    {
+      "id": "70",
+      "name": "IntroTheme",
+      "type": "sound"
+    },
+    {
+      "id": "80",
+      "name": "MenuTheme",
+      "type": "sound"
+    },
+    {
+      "id": "76",
+      "name": "FluffyLoop",
+      "type": "sound"
+    },
+    {
+      "id": "77",
+      "name": "Transition",
+      "type": "sound"
+    },
+    {
+      "id": "53",
+      "name": "Uncork",
+      "type": "sound"
+    },
+    {
+      "id": "54",
+      "name": "WoodRattle",
+      "type": "sound"
+    },
+    {
+      "id": "64",
+      "name": "Enter",
+      "type": "sound"
+    },
+    {
+      "id": "65",
+      "name": "Deny",
+      "type": "sound"
+    },
+    {
+      "id": "68",
+      "name": "Door",
+      "type": "sound"
+    },
+    {
+      "id": "100",
+      "name": "Keyclick",
+      "type": "sound"
+    },
+    {
+      "id": "84",
+      "name": "JukeboxTest",
+      "type": "scene"
+    },
+    {
+      "id": "7",
+      "name": "Logo",
+      "type": "scene"
+    },
+    {
+      "id": "85",
+      "name": "Title",
+      "type": "scene"
+    },
+    {
+      "id": "6",
+      "name": "Menu",
+      "type": "scene"
+    },
+    {
+      "id": "47",
+      "name": "Cinematic",
+      "type": "scene"
+    },
+    {
+      "id": "1",
+      "name": "Main",
+      "type": "scene"
+    },
+    {
+      "id": "93",
+      "name": "End",
+      "type": "scene"
+    },
+    {
+      "id": "103",
+      "name": "PATCHNOTES",
+      "type": "script"
+    },
+    {
+      "id": "39",
+      "name": "TEXTFILES",
+      "type": null,
+      "children": [
+        {
+          "id": "17",
+          "name": "TEXT",
+          "type": "script"
+        },
+        {
+          "id": "92",
+          "name": "Fluffy",
+          "type": "script"
+        },
+        {
+          "id": "40",
+          "name": "Box",
+          "type": "script"
+        },
+        {
+          "id": "88",
+          "name": "Newpaper",
+          "type": "script"
+        },
+        {
+          "id": "89",
+          "name": "Desk",
+          "type": "script"
+        },
+        {
+          "id": "91",
+          "name": "Board",
+          "type": "script"
+        },
+        {
+          "id": "90",
+          "name": "PC",
+          "type": "script"
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "name": "Intro",
+      "type": null,
+      "children": [
+        {
+          "id": "9",
+          "name": "LogoAnim",
+          "type": "script"
+        },
+        {
+          "id": "86",
+          "name": "TitleScreen",
+          "type": "script"
+        },
+        {
+          "id": "42",
+          "name": "NameDog",
+          "type": "script"
+        },
+        {
+          "id": "44",
+          "name": "FadeIn",
+          "type": "script"
+        },
+        {
+          "id": "51",
+          "name": "FadeOut",
+          "type": "script"
+        },
+        {
+          "id": "48",
+          "name": "LoadCinematic",
+          "type": "script"
+        },
+        {
+          "id": "52",
+          "name": "TimedFlag",
+          "type": "script"
+        },
+        {
+          "id": "72",
+          "name": "ExpandParticle",
+          "type": "script"
+        },
+        {
+          "id": "73",
+          "name": "Camera",
+          "type": "script"
+        },
+        {
+          "id": "75",
+          "name": "Button",
+          "type": "script"
+        },
+        {
+          "id": "99",
+          "name": "ClearEverything",
+          "type": "script"
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "name": "Polish",
+      "type": null,
+      "children": [
+        {
+          "id": "18",
+          "name": "TextShadow",
+          "type": "script"
+        },
+        {
+          "id": "61",
+          "name": "PlayerHead",
+          "type": "script"
+        },
+        {
+          "id": "62",
+          "name": "CreateFadeIn",
+          "type": "script"
+        },
+        {
+          "id": "45",
+          "name": "LayerWithCursor",
+          "type": "script"
+        },
+        {
+          "id": "87",
+          "name": "PortraitFlyBy",
+          "type": "script"
+        },
+        {
+          "id": "94",
+          "name": "TickToScene",
+          "type": "script"
+        },
+        {
+          "id": "95",
+          "name": "FreeMouse",
+          "type": "script"
+        },
+        {
+          "id": "98",
+          "name": "CursorShadow",
+          "type": "script"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "GAME",
+      "type": "script"
+    },
+    {
+      "id": "78",
+      "name": "Jukebox",
+      "type": "script"
+    },
+    {
+      "id": "4",
+      "name": "ClickableRegion",
+      "type": "script"
+    },
+    {
+      "id": "14",
+      "name": "RoomObject",
+      "type": "script"
+    },
+    {
+      "id": "15",
+      "name": "DialogueObject",
+      "type": "script"
+    },
+    {
+      "id": "12",
+      "name": "Cursor",
+      "type": "script"
+    },
+    {
+      "id": "16",
+      "name": "TextHandler",
+      "type": "script"
+    },
+    {
+      "id": "19",
+      "name": "Answer",
+      "type": "script"
+    },
+    {
+      "id": "67",
+      "name": "Fluffy",
+      "type": "script"
+    },
+    {
+      "id": "71",
+      "name": "Portrait",
+      "type": "script"
+    }
+  ]
+}
